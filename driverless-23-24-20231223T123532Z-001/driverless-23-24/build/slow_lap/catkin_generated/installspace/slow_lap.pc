@@ -1,0 +1,8 @@
+prefix=/home/mtu-dv/driverless-23-24/install
+
+Name: slow_lap
+Description: Description of slow_lap
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+ma_rrt_path_plan:motion_planing:path_planing:perception:rplidar_ros:slam:slow_lap:vehicle_msgs:ytu_racing:ytu_racing_msgs
+-DCATKIN_DEVEL_PREFIX=/home/mtu-dv/driverless-23-24/devel -DCMAKE_INSTALL_PREFIX=/home/mtu-dv/driverless-23-24/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/mtu-dv/driverless-23-24/devel
+
+Name: motion_planing
+Description: Description of motion_planing
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

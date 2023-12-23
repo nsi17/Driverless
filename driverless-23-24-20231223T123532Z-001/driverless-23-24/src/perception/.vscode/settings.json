@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mtu-dv/driverless-23-24/devel/lib/python3/dist-packages",
+        "/home/mtu-dv/ros-serrial/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mtu-dv/driverless-23-24/devel/lib/python3/dist-packages",
+        "/home/mtu-dv/ros-serrial/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

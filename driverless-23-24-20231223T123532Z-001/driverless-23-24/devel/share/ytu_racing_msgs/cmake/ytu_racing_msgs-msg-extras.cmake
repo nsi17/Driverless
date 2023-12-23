@@ -1,0 +1,2 @@
+set(ytu_racing_msgs_MESSAGE_FILES "/home/mtu-dv/driverless-23-24/src/ytu_racing_msgs/msg/Cone.msg;/home/mtu-dv/driverless-23-24/src/ytu_racing_msgs/msg/ConeArray.msg;/home/mtu-dv/driverless-23-24/src/ytu_racing_msgs/msg/Command.msg;/home/mtu-dv/driverless-23-24/src/ytu_racing_msgs/msg/Track.msg;/home/mtu-dv/driverless-23-24/src/ytu_racing_msgs/msg/TrackCone.msg;/home/mtu-dv/driverless-23-24/src/ytu_racing_msgs/msg/Waypoint.msg;/home/mtu-dv/driverless-23-24/src/ytu_racing_msgs/msg/WaypointsArray.msg")
+set(ytu_racing_msgs_SERVICE_FILES "")

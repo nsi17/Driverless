@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/mtu-dv/driverless-23-24/devel/include/**",
+        "/home/mtu-dv/ros-serrial/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/mtu-dv/ros-serrial/src/rosserial_server/include/**",
+        "/home/mtu-dv/ros-serrial/src/rosserial_test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

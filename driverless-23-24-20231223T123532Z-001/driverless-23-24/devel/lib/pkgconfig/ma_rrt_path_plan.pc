@@ -1,0 +1,8 @@
+prefix=/home/mtu-dv/driverless-23-24/devel
+
+Name: ma_rrt_path_plan
+Description: Description of ma_rrt_path_plan
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
